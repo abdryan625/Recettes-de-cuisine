@@ -1,2 +1,2 @@
-# Recettes-de-cuisines
+# Recettes-de-cuisine
 Ce sont juste des recettes de cuisines
