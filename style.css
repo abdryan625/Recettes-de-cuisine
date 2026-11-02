@@ -1,0 +1,93 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+#Pancakes {
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+
+.Sous-pancakes {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+ul li {
+    margin-bottom: 10px;
+}
+.Feuille1 {
+    color: yellow;
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 500px;  
+    height: auto;
+}
+
+.lien-source {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+#Recettes {
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+#Guacamole {
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+.para {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.para2 {
+    color: green;
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.para3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.lien-source2 {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+.lien-home {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
